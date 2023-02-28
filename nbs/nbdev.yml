@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "napkin_tasks"
+  site-url: "https://hgzech.github.io/napkin_tasks"
+  description: "A simple interface to generate behavioral tasks"
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/napkin_tasks"
